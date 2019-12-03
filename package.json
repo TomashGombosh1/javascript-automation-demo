@@ -1,0 +1,12 @@
+{
+   "name": "Demo_JavaScript",
+   "private": true,
+   "dependencies": {
+      "protractor": "^5.4.2",
+      "moment": "2.24.0",
+      "jasmine-allure-reporter": "1.0.2"
+   },
+   "scripts": {
+      "test": "protractor config.js"
+   }
+}
