@@ -3,7 +3,7 @@
    "private": true,
    "dependencies": {
       "protractor": "^5.4.2",
-      "moment": "2.24.0",
+      "moment": "2.29.4",
       "jasmine-allure-reporter": "1.0.2"
    },
    "scripts": {
